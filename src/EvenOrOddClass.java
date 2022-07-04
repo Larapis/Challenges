@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class EvenOrOddClass {
     String answer = "";
 
-    static void MainFunctionToRun(){
+    static void MainEvenOrOdd(){
         while(true) {
             int evenOrOddNum = 0;
             Scanner input = new Scanner(System.in);
